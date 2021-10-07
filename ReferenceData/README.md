@@ -2,5 +2,5 @@ The three folders: 'SA1', 'SA2', and 'SA3' contain the reference LiDAR point clo
 Example: SA1_Tree_5.las: the las file of tree elment with unique id 5 located in study area SA1.
 XY coordinate system: Belge Lambert 1972 (EPSG 31370); Z coordinate system: Oostende (EPSG 5710)
 
-The folder StudyAreaBoundaries contains the boundaries of the three study areas used in the publication 'A workflow to extract the geometry and type of vegetated 2 landscape elements from airborne LiDAR point clouds'.
+The folder 'StudyAreaBoundaries' contains the boundaries of the three study areas used in the publication 'A workflow to extract the geometry and type of vegetated 2 landscape elements from airborne LiDAR point clouds'.
 XY coordinate system: Belge Lambert 1972 (EPSG 31370)
