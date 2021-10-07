@@ -1,3 +1,5 @@
+This folder contains the script for the publication 'A workflow to extract the geometry and type of vegetated 2 landscape elements from airborne LiDAR point clouds'
+
 3_2_LiDARFeatureCalculation.py: Change directories in this script; Run this script to calculate features described in section 3.2 of the publication.
 
 3_3_1_ClassificationOfPointData_DataPreparation.py: Change directories in this script; Run this script for data preparation needed to do the random forest classification described in section 3.3 of the publication.
